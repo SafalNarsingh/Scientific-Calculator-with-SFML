@@ -12,7 +12,7 @@ A feature-rich scientific calculator built with **C++** using **SFML** for the g
 - [Configuration](#configuration)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
+- [Contributor](#contributor)
 
 ## Introduction
 This scientific calculator application offers a simple yet powerful interface for performing complex mathematical calculations. Built using **C++** and **SFML**, it includes support for both basic operations (addition, subtraction, multiplication, division) and advanced functions such as trigonometry and logarithms.
@@ -106,10 +106,12 @@ No special configuration is required. Ensure that SFML is installed and properly
 
 ## Troubleshooting
 - **SFML Not Found**: Ensure that SFML is properly installed and linked during the build process. Check your `Makefile` or build configuration.
-- **Incorrect Calculations**: Ensure that you are entering valid mathematical expressions.
+- **Incorrect Calculations**: Ensure you enter valid mathematical expressions.
 
-## Contributors
-- Safal Narshing Shrestha - Developer
-
+## Issues
+- CPU usage needs to be optimized.
+- Full-screen mode needs to be optimized.
+- The initial cursor position alignment should be changed.
+  
 > Last updated by Safal Narhsing Shrestha on Oct 22, 2024, 12:24. </br> Copyright © 2024 Safal Narshing Shrestha. All rights reserved.
 #
