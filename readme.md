@@ -81,11 +81,11 @@ The calculator supports the following operators with parentheses:
 No special configuration is required. Ensure that SFML is installed and properly linked during the compilation process.
 
 ## Preview
-![Example 1](Resources/Screenshot-2024-10-22 115609.png)
-![Example 2](Resources/Screenshot-2024-10-22 115738.png)
-![Example 3](Resources/Screenshot-2024-10-22 115758.png)
-![Example 4](Resources/Screenshot-2024-10-22 115838.png)
-![Example 5](Resources/Screenshot-2024-10-22 115956.png)
+![Example 1](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115609.png)
+![Example 2](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115738.png)
+![Example 3](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115758.png)
+![Example 4](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115838.png)
+![Example 5](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115956.png)
 
 ## Examples
 1. **Addition**:
