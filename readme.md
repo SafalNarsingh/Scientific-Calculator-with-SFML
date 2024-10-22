@@ -66,8 +66,8 @@ The calculator supports the following operators with parentheses:
 | /        | Division            | Binary|
 | x^2      | Squared             | Binary|
 | x^y      | Exponential         | Binary|
-| neg()    | Negation            | Unary |
-| abs()    | Absolute Value      | Unary |
+| ln()     | Natural Logarithm   | Unary |
+| log()    | Logarithm (Base 10) | Unary |
 | sqrt()   | Square Root         | Unary |
 | sin()    | Sine                | Unary |
 | cos()    | Cosine              | Unary |
