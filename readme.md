@@ -113,5 +113,5 @@ No special configuration is required. Ensure that SFML is installed and properly
 - Full-screen mode needs to be optimized.
 - The initial cursor position alignment should be changed.
   
-> Last updated by Safal Narhsing Shrestha on Oct 22, 2024, 12:24. </br> Copyright © 2024 Safal Narshing Shrestha. All rights reserved.
+> Last updated by Safal Narhsing Shrestha on Oct 22, 2024, 12:42. </br> Copyright © 2024 Safal Narshing Shrestha. All rights reserved.
 #
