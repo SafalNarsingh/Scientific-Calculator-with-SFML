@@ -12,7 +12,7 @@ A feature-rich scientific calculator built with **C++** using **SFML** for the g
 - [Configuration](#configuration)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
-- [Contributor](#contributor)
+- [Issues](#issues)
 
 ## Introduction
 This scientific calculator application offers a simple yet powerful interface for performing complex mathematical calculations. Built using **C++** and **SFML**, it includes support for both basic operations (addition, subtraction, multiplication, division) and advanced functions such as trigonometry and logarithms.
