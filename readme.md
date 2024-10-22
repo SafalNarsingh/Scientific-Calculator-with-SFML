@@ -82,9 +82,13 @@ No special configuration is required. Ensure that SFML is installed and properly
 
 ## Preview
 ![Example 1](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115609.png)
+</br></br>
 ![Example 2](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115738.png)
+</br></br>
 ![Example 3](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115758.png)
+</br></br>
 ![Example 4](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115838.png)
+</br></br>
 ![Example 5](https://github.com/SafalNarsingh/Scientific-Calculator-with-SFML/blob/main/Resources/Screenshot-2024-10-22%20115956.png)
 
 ## Examples
